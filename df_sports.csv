@@ -1,0 +1,16 @@
+id,name,type
+alpine_skiing,Alpine Skiing,individual
+biathlon,Biathlon,individual
+bobsleigh,Bobsleigh,individual
+cross-country,Cross-Country,individual
+curling,Curling,team
+figure_skating,Figure Skating,individual
+freestyle_skiing,Freestyle Skiing,individual
+ice_hockey,Ice Hockey,team
+luge,Luge,individual
+nordic_combined,Nordic Combined,individual
+short_track,Short Track,individual
+skeleton,Skeleton,individual
+ski_jumping,Ski Jumping,individual
+snowboard,Snowboard,individual
+speed_skating,Speed Skating,individual

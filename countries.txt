@@ -719,10 +719,10 @@
           "gold": "2"
         },
         "ice_hockey": {
-          "total": "1",
+          "total": "2",
           "bronze": "0",
           "silver": "0",
-          "gold": "1"
+          "gold": "2"
         },
         "bobsleigh": {
           "total": "1",
@@ -985,9 +985,9 @@
       },
       "medals": {
         "bronze": 5,
-        "gold": 9,
+        "gold": 10,
         "silver": 10,
-        "total": 24
+        "total": 25
       }
     },
     {
@@ -4070,10 +4070,10 @@
           "gold": "1"
         },
         "cross-country": {
-          "total": "2",
-          "bronze": "0",
-          "silver": "2",
-          "gold": "0"
+          "total": "5",
+          "bronze": "1",
+          "silver": "3",
+          "gold": "1"
         },
         "luge": {
           "total": "2",
@@ -4233,10 +4233,10 @@
         "total": 91
       },
       "medals": {
-        "bronze": 8,
-        "gold": 11,
-        "silver": 10,
-        "total": 29
+        "bronze": 9,
+        "gold": 12,
+        "silver": 11,
+        "total": 32
       }
     },
     {
@@ -4471,6 +4471,12 @@
       "flag": "http://gtcdn.sochi2014.com/flag/large/swe.png",
       "id": "sweden",
       "medals_by_sport": {
+        "ice_hockey": {
+          "total": "1",
+          "bronze": "0",
+          "silver": "1",
+          "gold": "0"
+        },
         "curling": {
           "total": "2",
           "bronze": "1",
@@ -4709,8 +4715,8 @@
       "medals": {
         "bronze": 4,
         "gold": 2,
-        "silver": 6,
-        "total": 12
+        "silver": 7,
+        "total": 13
       }
     },
     {

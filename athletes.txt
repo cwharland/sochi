@@ -1740,10 +1740,10 @@
       "name": "Alex Pietrangelo",
       "weight": 93,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -1933,9 +1933,9 @@
       "weight": 100,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -2148,10 +2148,10 @@
       "name": "Alexander Legkov",
       "weight": 73,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 1,
         "bronze": 0,
-        "total": 1
+        "total": 2
       },
       "sport": {
         "id": "cross-country",
@@ -2341,9 +2341,9 @@
       "weight": 93,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -10884,10 +10884,10 @@
       "name": "Carey Price",
       "weight": 99,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -10957,9 +10957,9 @@
       "weight": 80,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -12060,10 +12060,10 @@
       "name": "Chris Kunitz",
       "weight": 88,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -13164,10 +13164,10 @@
       "name": "Corey Perry",
       "weight": 95,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -13740,10 +13740,10 @@
       "name": "Dan Hamhuis",
       "weight": 94,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -13813,9 +13813,9 @@
       "weight": 92,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -14005,9 +14005,9 @@
       "weight": 84,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -16932,10 +16932,10 @@
       "name": "Drew Doughty",
       "weight": 94,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -16980,10 +16980,10 @@
       "name": "Duncan Keith",
       "weight": 90,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -19141,9 +19141,9 @@
       "weight": 79,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -21517,9 +21517,9 @@
       "weight": 93,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -22669,9 +22669,9 @@
       "weight": 84,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -23821,9 +23821,9 @@
       "weight": 90,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -23893,9 +23893,9 @@
       "weight": 98,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -23941,9 +23941,9 @@
       "weight": 89,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -24782,8 +24782,8 @@
       "medals": {
         "gold": 0,
         "silver": 0,
-        "bronze": 0,
-        "total": 0
+        "bronze": 1,
+        "total": 1
       },
       "sport": {
         "id": "cross-country",
@@ -26077,9 +26077,9 @@
       "weight": 91,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -26316,10 +26316,10 @@
       "name": "Jamie Benn",
       "weight": 94,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -27540,10 +27540,10 @@
       "name": "Jay Bouwmeester",
       "weight": 96,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -27852,10 +27852,10 @@
       "name": "Jeff Carter",
       "weight": 95,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -28669,9 +28669,9 @@
       "weight": 75,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -28933,9 +28933,9 @@
       "weight": 94,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -29892,10 +29892,10 @@
       "name": "John Tavares",
       "weight": 91,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -29965,9 +29965,9 @@
       "weight": 91,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -30133,9 +30133,9 @@
       "weight": 87,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -30205,9 +30205,9 @@
       "weight": 102,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -30324,10 +30324,10 @@
       "name": "Jonathan Toews",
       "weight": 94,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -36997,9 +36997,9 @@
       "weight": 87,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -38724,10 +38724,10 @@
       "name": "Marc-edouard Vlasic",
       "weight": 93,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -38965,9 +38965,9 @@
       "weight": 91,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -39013,9 +39013,9 @@
       "weight": 81,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -41316,10 +41316,10 @@
       "name": "Martin St-louis",
       "weight": 87,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -42228,10 +42228,10 @@
       "name": "Matt Duchene",
       "weight": 91,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -42925,9 +42925,9 @@
       "weight": 68,
       "medals": {
         "gold": 0,
-        "silver": 2,
+        "silver": 3,
         "bronze": 0,
-        "total": 2
+        "total": 3
       },
       "sport": {
         "id": "cross-country",
@@ -44556,10 +44556,10 @@
       "name": "Mike Smith",
       "weight": 98,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -47197,9 +47197,9 @@
       "weight": 97,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -47749,9 +47749,9 @@
       "weight": 93,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -47773,9 +47773,9 @@
       "weight": 86,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -49117,9 +49117,9 @@
       "weight": 86,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -49788,10 +49788,10 @@
       "name": "P.k. Subban",
       "weight": 98,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -49908,10 +49908,10 @@
       "name": "Patrice Bergeron",
       "weight": 86,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -50172,10 +50172,10 @@
       "name": "Patrick Marleau",
       "weight": 100,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -50244,10 +50244,10 @@
       "name": "Patrick Sharp",
       "weight": 90,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -50341,9 +50341,9 @@
       "weight": 100,
       "medals": {
         "gold": 0,
-        "silver": 0,
+        "silver": 1,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -53316,10 +53316,10 @@
       "name": "Rick Nash",
       "weight": 100,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -53676,10 +53676,10 @@
       "name": "Roberto Luongo",
       "weight": 93,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -54852,10 +54852,10 @@
       "name": "Ryan Getzlaf",
       "weight": 100,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -57804,10 +57804,10 @@
       "name": "Shea Weber",
       "weight": 106,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",
@@ -58140,10 +58140,10 @@
       "name": "Sidney Crosby",
       "weight": 91,
       "medals": {
-        "gold": 0,
+        "gold": 1,
         "silver": 0,
         "bronze": 0,
-        "total": 0
+        "total": 1
       },
       "sport": {
         "id": "ice_hockey",

@@ -19,3 +19,17 @@ na_weights <- is.na(train$weight)
 train[na_weights,'weight'] <- pred_weight
 medal_model <- randomForest(medal_winner ~ ., data = train, importance=TRUE)
 ggplot(df_hist_by_year %.% group_by(year) %.% summarise(total_medals = sum(total)), aes(x = year, y = total_medals)) + geom_point() + stat_smooth()
+df_total_years <- df_total_years[order(df_total_years[,1]), ]
+df_total_years$cum_total <- cumsum(df_total_years$total_medals)
+df_total_years$cum_frac <- df_total_years$cum_total / sum(df_total_years$total_medals)
+df_total_years$medal_frac <- df_total_years$total_medals / max(df_total_years$total_medals)
+df_country_stats <- df_hist_by_year %.% group_by(country) %.% summarise(start_year = min(year), total_medals = sum(total))
+df_hist_by_year <- inner_join(df_hist_by_year, df_total_years[,c('year','medal_frac', 'total_medals')])
+df_hist_by_year$adj_total <- df_hist_by_year$total / df_hist_by_year$medal_frac
+df_hist_by_year$total_frac <- df_hist_by_year$total / df_hist_by_year$total_medals
+
+long_countries <- df_country_stats[(df_country_stats$total_medals >= 120) & (df_country_stats$start_year <=1950), 'country']
+country_mask <- df_hist_by_year$country %in% long_countries
+ggplot(df_hist_by_year[country_mask, ], aes(x = year, y = total, color = country)) + stat_smooth(se=FALSE, size=1.3)
+ggplot(df_hist_by_year[country_mask, ], aes(x = year, y = adj_total, color = country)) + stat_smooth(se=FALSE, size=1.3)
+ggplot(df_hist_by_year[country_mask, ], aes(x = year, y = total_frac, color = country)) + stat_smooth(se=FALSE, size=1.3)
